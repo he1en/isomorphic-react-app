@@ -1,4 +1,7 @@
 node_modules/
 npm-debug.log
 public/css
+public/main.js
+public/main.min.js
 build/
+bin/
