@@ -11,7 +11,7 @@ var Home = React.createClass({
   render: function () {
     return (
       <div className='home-container'>
-        <div>My react app!</div>
+        <h1>My react app!</h1>
         <Link to={'/otherpage'}>Go to another page</Link>
       </div>
       )
