@@ -5,6 +5,8 @@ Managed with npm, built on an express server and sass for styling.
 
 After cloning, from the top directory, do
 
+`sudo npm install` to install dependencies.
+
 `gulp`    to build components and css.
 
 and `sudo npm start` to start serving on port 8000.
